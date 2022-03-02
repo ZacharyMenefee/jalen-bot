@@ -1,0 +1,19 @@
+{
+  "name": "jalen-bot",
+  "version": "1.0.0",
+  "description": "A discord bot for providing the wise words of our leader",
+  "main": "jalenbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "jalen"
+  ],
+  "author": "@zacharymenefee",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
